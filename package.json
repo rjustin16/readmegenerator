@@ -1,0 +1,22 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "md ## Description iadfnasd ## Installation ```akdfj;asdfj``` ## Usage ;adkfja;sfj ## Contribution k;afasd ## Project Testing ;klajdfa ## License ![License](https://img.shields.io/badge/License-MIT-blue) ## Gihub Username <strong><em>[Github](https://github.com/lkj;)</em></strong> ## Email Contact jj",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjustin16/readmegenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rjustin16/readmegenerator/issues"
+  },
+  "homepage": "https://github.com/rjustin16/readmegenerator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}
