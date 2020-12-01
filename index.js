@@ -5,7 +5,7 @@ const fs = require("fs");
 inquirer.prompt(questions).then((input) => {
   fs.writeFile("README.md",
 `## Title
-${input.title}node
+${input.title}
 ## Description
 ${input.description}
 ## Installation
