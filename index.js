@@ -17,7 +17,7 @@ ${input.contribution}
 ## Project Testing
 ${input.test}
 ## License
-![License](https://img.shields.io/badge/License-${input.license}-blue)
+${input.license}
 ## Gihub Username
 [Github](https://github.com/${input.github})
 ## Email Contact
